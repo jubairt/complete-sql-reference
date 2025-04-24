@@ -21,4 +21,4 @@ This repository contains my SQL learning journey, divided into beginner, interme
 To get started with the SQL queries, simply clone the repository and browse through the folders based on your learning level. The queries cover a wide range of SQL topics, including data cleaning, transformation, window functions, indexing, and optimization.
 
 ```bash
-git clone https://github.com/your-username/sql-journey.git
+git clone https://github.com/jubairt/complete-sql-reference.git
